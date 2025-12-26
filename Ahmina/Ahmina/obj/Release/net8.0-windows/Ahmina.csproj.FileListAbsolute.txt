@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.GameForm.resources
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Ahmina\Ahmina\bin\Release\net8.0-windows\Ahmina.exe
+C:\Users\Александр\source\repos\Ahmina\Ahmina\bin\Release\net8.0-windows\Ahmina.deps.json
+C:\Users\Александр\source\repos\Ahmina\Ahmina\bin\Release\net8.0-windows\Ahmina.runtimeconfig.json
+C:\Users\Александр\source\repos\Ahmina\Ahmina\bin\Release\net8.0-windows\Ahmina.dll
+C:\Users\Александр\source\repos\Ahmina\Ahmina\bin\Release\net8.0-windows\Ahmina.pdb
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.dll
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\refint\Ahmina.dll
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.pdb
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\Ahmina.genruntimeconfig.cache
+C:\Users\Александр\source\repos\Ahmina\Ahmina\obj\Release\net8.0-windows\ref\Ahmina.dll
